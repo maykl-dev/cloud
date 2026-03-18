@@ -5,7 +5,7 @@ export const FOOTER_LINKS: FooterLink[] = [
     name: 'LinkedIn',
     hoverText: 'Connect with me',
     icon: 'icons/linkedin.svg',
-    url: '.',
+    url: 'https://www.linkedin.com/in/otabek-nuriddinov-40b5373b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
   },
   {
     name: 'GitHub',
