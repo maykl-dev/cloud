@@ -17,7 +17,7 @@ export const FOOTER_LINKS: FooterLink[] = [
     name: 'Spotify',
     hoverText: 'Curated playlists',
     icon: 'icons/spotify.svg',
-    url: '.',
+    url: 'https://open.spotify.com/user/31brcs5u64xfpozboulgbnx4tscu?si=KuSHyMIRRcSn1cMTHq0BAA',
   },
   {
     name: 'Instagram',
